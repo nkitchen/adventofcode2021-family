@@ -1,1 +1,1 @@
-run = "ruby 04b.rb in04.txt"
+run = "ruby 05b.rb in05.txt"
